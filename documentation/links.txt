@@ -1,0 +1,15 @@
+PostGIS:
+- https://postgis.net/workshops/postgis-intro/geography.html
+
+Package vegan:
+- https://cran.r-project.org/web/packages/vegan/vegan.pdf
+
+Analysis of community ecology data in R:
+- https://www.davidzeleny.net/anadat-r/doku.php/en:overview
+- https://www.davidzeleny.net/anadat-r/doku.php/en:data_import
+
+Diagrams > Limodorum:
+- https://drawsql.app/teams/a-1747/diagrams/limodorum
+
+Phytobase:
+- https://www.wsl.ch/land/products/rhone-thur/erfolgskontr/docs/anhang_II/PhytobaseS/Documentation/Guide%20Phytobase7.pdf
